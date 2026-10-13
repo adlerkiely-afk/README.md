@@ -31,4 +31,4 @@ Design and structural analysis of a high-speed drone, from airframe CAD to ANSYS
 
 **Currently working on:** testing the payload's deployment mechanism and building the calibration rig for the pitot array.
 
-[LinkedIn](LINK) · [Email](mailto:EMAIL)
+[LinkedIn](https://www.linkedin.com/in/adlerkiely) · [Email](mailto:adler.kiely@gmail.com)
