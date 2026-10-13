@@ -8,7 +8,7 @@ Aerospace engineering student building hardware for rockets, drones and aircraft
 ---
 
 ## 2027 IREC Payload
-**Kent State Valkyrie rocket team · 2026–present**
+**Kent State rocket team · 2026–present**
 
 ![2027 IREC Payload deploying its pitot probes](images/payload.gif)
 
