@@ -10,7 +10,7 @@ Aerospace engineering student building hardware for rockets, drones and aircraft
 ## 2027 IREC Payload
 **Kent State rocket team · 2026–present**
 
-![2027 IREC Payload deploying its pitot probes](images/payload.gif)
+![2027 IREC Payload deploying its pitot probes](images/payload1.gif)
 
 A servo-driven linkage that deploys four pitot probes from a CubeSat-format payload during descent to measure wind speed and direction. Includes the mechanism trade study (rack-and-pinion vs. MIT-style slider-crank), stroke and torque sizing, a full assembly modeled in Onshape and a design review.
 
