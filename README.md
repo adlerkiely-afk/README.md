@@ -21,7 +21,7 @@ A servo-driven linkage that deploys four pitot probes from a CubeSat-format payl
 ## High-speed drone
 **Independent project**
 
-![High-speed drone](images/drone.png)
+![High-speed drone](images/wiref.png)
 
 Design and structural analysis of a high-speed drone, from airframe CAD to ANSYS simulation.
 
